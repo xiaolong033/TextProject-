@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\6-15\Dorm.Model\obj\Debug\Dorm.Model.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\6-15\Dorm.Model\obj\Debug\Dorm.Model.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\6-15\Dorm.Model\bin\Debug\Dorm.Model.dll.config
+C:\Users\Dell\Desktop\6-15\Dorm.Model\bin\Debug\Dorm.Model.dll
+C:\Users\Dell\Desktop\6-15\Dorm.Model\bin\Debug\Dorm.Model.pdb
+C:\Users\Dell\Desktop\6-15\Dorm.Model\bin\Debug\EntityFramework.dll
+C:\Users\Dell\Desktop\6-15\Dorm.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\Desktop\6-15\Dorm.Model\bin\Debug\EntityFramework.xml
+C:\Users\Dell\Desktop\6-15\Dorm.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\Desktop\6-15\Dorm.Model\obj\Debug\Dorm.Model.csproj.CopyComplete
+C:\Users\Dell\Desktop\6-15\Dorm.Model\obj\Debug\Dorm.Model.dll
+C:\Users\Dell\Desktop\6-15\Dorm.Model\obj\Debug\Dorm.Model.pdb
+C:\Users\Dell\Desktop\6-15\Dorm.Model\obj\Debug\Dorm.Model.Migrations.ct_Db.resources
+C:\Users\Dell\Desktop\6-15\Dorm.Model\obj\Debug\Dorm.Model.csproj.GenerateResource.cache

@@ -1,0 +1,12 @@
+C:\Users\Dell\Desktop\6-15\Dorm.IDAL\bin\Debug\Dorm.IDAL.dll
+C:\Users\Dell\Desktop\6-15\Dorm.IDAL\bin\Debug\Dorm.IDAL.pdb
+C:\Users\Dell\Desktop\6-15\Dorm.IDAL\bin\Debug\Dorm.Model.dll
+C:\Users\Dell\Desktop\6-15\Dorm.IDAL\bin\Debug\EntityFramework.dll
+C:\Users\Dell\Desktop\6-15\Dorm.IDAL\bin\Debug\Dorm.Model.pdb
+C:\Users\Dell\Desktop\6-15\Dorm.IDAL\bin\Debug\Dorm.Model.dll.config
+C:\Users\Dell\Desktop\6-15\Dorm.IDAL\bin\Debug\EntityFramework.xml
+C:\Users\Dell\Desktop\6-15\Dorm.IDAL\obj\Debug\Dorm.IDAL.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\6-15\Dorm.IDAL\obj\Debug\Dorm.IDAL.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\6-15\Dorm.IDAL\obj\Debug\Dorm.IDAL.csproj.CopyComplete
+C:\Users\Dell\Desktop\6-15\Dorm.IDAL\obj\Debug\Dorm.IDAL.dll
+C:\Users\Dell\Desktop\6-15\Dorm.IDAL\obj\Debug\Dorm.IDAL.pdb

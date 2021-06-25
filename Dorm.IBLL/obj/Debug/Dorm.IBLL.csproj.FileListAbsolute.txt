@@ -1,0 +1,9 @@
+C:\Users\Dell\Desktop\6-15\Dorm.IBLL\bin\Debug\Dorm.IBLL.dll
+C:\Users\Dell\Desktop\6-15\Dorm.IBLL\bin\Debug\Dorm.IBLL.pdb
+C:\Users\Dell\Desktop\6-15\Dorm.IBLL\obj\Debug\Dorm.IBLL.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\6-15\Dorm.IBLL\obj\Debug\Dorm.IBLL.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\6-15\Dorm.IBLL\obj\Debug\Dorm.IBLL.dll
+C:\Users\Dell\Desktop\6-15\Dorm.IBLL\obj\Debug\Dorm.IBLL.pdb
+C:\Users\Dell\Desktop\6-15\Dorm.IBLL\bin\Debug\Dorm.Dto.dll
+C:\Users\Dell\Desktop\6-15\Dorm.IBLL\bin\Debug\Dorm.Dto.pdb
+C:\Users\Dell\Desktop\6-15\Dorm.IBLL\obj\Debug\Dorm.IBLL.csproj.CopyComplete

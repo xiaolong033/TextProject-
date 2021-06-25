@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\6-15\Dorm.DAL\bin\Debug\Dorm.DAL.dll
+C:\Users\Dell\Desktop\6-15\Dorm.DAL\bin\Debug\Dorm.DAL.pdb
+C:\Users\Dell\Desktop\6-15\Dorm.DAL\bin\Debug\Dorm.IDAL.dll
+C:\Users\Dell\Desktop\6-15\Dorm.DAL\bin\Debug\Dorm.Model.dll
+C:\Users\Dell\Desktop\6-15\Dorm.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Dell\Desktop\6-15\Dorm.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\Desktop\6-15\Dorm.DAL\bin\Debug\Dorm.IDAL.pdb
+C:\Users\Dell\Desktop\6-15\Dorm.DAL\bin\Debug\Dorm.Model.pdb
+C:\Users\Dell\Desktop\6-15\Dorm.DAL\bin\Debug\Dorm.Model.dll.config
+C:\Users\Dell\Desktop\6-15\Dorm.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Dell\Desktop\6-15\Dorm.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\Desktop\6-15\Dorm.DAL\obj\Debug\Dorm.DAL.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\6-15\Dorm.DAL\obj\Debug\Dorm.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\6-15\Dorm.DAL\obj\Debug\Dorm.DAL.csproj.CopyComplete
+C:\Users\Dell\Desktop\6-15\Dorm.DAL\obj\Debug\Dorm.DAL.dll
+C:\Users\Dell\Desktop\6-15\Dorm.DAL\obj\Debug\Dorm.DAL.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dell\Desktop\6-15\Dorm.Dto\bin\Debug\Dorm.Dto.dll
+C:\Users\Dell\Desktop\6-15\Dorm.Dto\bin\Debug\Dorm.Dto.pdb
+C:\Users\Dell\Desktop\6-15\Dorm.Dto\obj\Debug\Dorm.Dto.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\6-15\Dorm.Dto\obj\Debug\Dorm.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\6-15\Dorm.Dto\obj\Debug\Dorm.Dto.dll
+C:\Users\Dell\Desktop\6-15\Dorm.Dto\obj\Debug\Dorm.Dto.pdb
